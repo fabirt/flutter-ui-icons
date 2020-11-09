@@ -20,4 +20,4 @@ flutter:
   fonts:
     - family: Interface
       fonts:
-        - asset: assets/fonts/Interface.ttf
+        - asset: lib/fonts/Interface.ttf
