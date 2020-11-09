@@ -2,15 +2,22 @@
 
 Flutter icons set.
 
-## Usage
+## Getting started
 
-Import the package:
+In the `pubspec.yaml` of your flutter project, add the following dependency:
+
+```yaml
+dependencies:
+  ...
+  flutter_ui_icons:
+    git:
+      url: git://github.com/fabirt/flutter-ui-icons.git
+```
+
+In your library add the following import:
+
 ```dart
 import 'package:flutter_ui_icons/flutter_ui_icons.dart';
-```
-or import specific icons:
-```dart
-import 'package:flutter_ui_icons/flutter_ui_icons.dart' show InterfaceIcons;
 ```
 
 ## Interface Icons
