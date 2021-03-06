@@ -1,12 +1,11 @@
 name: flutter_ui_icons
 description: Flutter icons set.
-version: 0.1.1
+version: 0.2.0
 author:
 homepage: https://github.com/fabirt/flutter-ui-icons
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
