@@ -36,9 +36,9 @@ class InterfaceIcons {
       IconData(0xe80d, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData car =
       IconData(0xe80e, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData chat =
-      IconData(0xe80f, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData check =
+      IconData(0xe80f, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData chat =
       IconData(0xe810, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData chevron =
       IconData(0xe811, fontFamily: _kFontFam, fontPackage: _kFontPkg);
@@ -84,9 +84,9 @@ class InterfaceIcons {
       IconData(0xe825, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData disabled =
       IconData(0xe826, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData diskette =
-      IconData(0xe827, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData dislike =
+      IconData(0xe827, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData diskette =
       IconData(0xe828, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData distance =
       IconData(0xe829, fontFamily: _kFontFam, fontPackage: _kFontPkg);
